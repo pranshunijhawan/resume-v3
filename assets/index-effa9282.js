@@ -90,15 +90,15 @@ Error generating stack: `+i.message+`
         ],
         "certifications": [
             {
-                "title": "Microsoft Certified - Azure Data Engineer Associate",
+                "title": "Microsoft Certified: Azure Data Engineer Associate",
                 "href": "https://www.pranshunijhawan.dev/static/pdf/Microsoft Certified - Azure Data Engineer Associate.pdf"
             },
             {
-                "title": "Microsoft Azure Certified Developer - Associate",
+                "title": "Microsoft Certified: Azure Developer Associate",
                 "href": "https://www.pranshunijhawan.dev/static/pdf/Microsoft Azure Certified Developer - Associate.pdf"
             },
             {
-                "title": "AWS Certified Developer - Associate certificate",
+                "title": "AWS Certified: Developer Associate",
                 "href": "https://www.pranshunijhawan.dev/static/pdf/AWS Certified Developer - Associate certificate.pdf"
             }
         ],
